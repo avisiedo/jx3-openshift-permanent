@@ -32,7 +32,7 @@ environments:
   repository: ""
 gitops: true
 ingress:
-  domain: ""
+  domain: "permanent.idmocp.lab.eng.rdu2.redhat.com"
   externalDNS: false
   namespaceSubDomain: -jx.
   tls:
